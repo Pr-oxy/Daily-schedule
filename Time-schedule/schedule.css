@@ -1,0 +1,15 @@
+
+
+hr {
+    background-color: #EAF6F6;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    margin: 100px auto;
+    border-width: 5px;
+    width: 4%;
+}
+
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serifs;
+}
